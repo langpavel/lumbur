@@ -1,6 +1,6 @@
 {
   "name": "lumbur",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Production-ready boilerplate for building universal, extendable, and reusable React applications with `react-redux-provide`.",
   "main": "lib/index.js",
   "scripts": {
@@ -32,7 +32,7 @@
         "NODE_ENV": "development"
       }
     }
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/loggur/lumbur.git"

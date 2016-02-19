@@ -16,8 +16,10 @@ Production-ready boilerplate for building universal, extendable, and reusable Re
 
 4. Run `npm run start:dev` for development or `npm start` for production.
 
-5. Build your app within the `src` directory using the existing files as a template.  :)
+5. Build your app within the `src` directory using the existing files as a template.  Searching for `NOTE:` throughout this repo should point you towards the areas of the code you will likely need to customize.  :)
 
 6. Any static files should of course go within the `static` directory, and feel free to replace the `favicon.ico` with your own.
 
 7. Add some tests if you want!  See the `test` directory.
+
+8. Update this README.  ;)

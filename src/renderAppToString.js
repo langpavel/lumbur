@@ -10,7 +10,9 @@ import defaultProps from './defaultProps';
 
 const { theme } = providers;
 
-// NOTE: you'll probably want to use a different replicator here, if any
+// NOTE: you'll probably want to use a different replicator here, if any...
+// but if you do decide to use this replicator, you'll need to create a `data`
+// directory for it to work
 unshiftEnhancer({ theme }, replicate(
   'data/theme', fsReplicator({ themeName: true })
 ));
